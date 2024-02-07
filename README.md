@@ -1,34 +1,3 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/itsyourgirlnicky/NorthwindSQL/blob/main/index.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "id": "c706ed84",
-      "metadata": {
-        "deletable": false,
-        "editable": false,
-        "nbgrader": {
-          "cell_type": "markdown",
-          "checksum": "0e70a2387b5db31a026a0ff99f397aed",
-          "grade": false,
-          "grade_id": "cell-5ab1c1d5be55e778",
-          "locked": true,
-          "schema_version": 3,
-          "solution": false,
-          "task": false
-        },
-        "id": "c706ed84"
-      },
-      "source": [
         "# Structured Query Language (SQL) Checkpoint\n",
         "\n",
         "This checkpoint is designed to test your understanding of writing queries in the Structured Querying Language (SQL).\n",
